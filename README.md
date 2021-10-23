@@ -1,37 +1,31 @@
 ## Selamat Datang Di CDA
+Hello Spirit People of listener Nama Gue Arif
+Di Website ini gue akan menjelaskan siapa gue dan apa ini.Jadi, Gue Adalah Seorang Guru Pemrogramman Yang Membuka Kelas 
+Online Freemium Dan Dapat Diakses Kapan aja Dimana aja Sesuka Kalian, 
+Gue Juga Punya Portal Pribadi Yang Bisa kalian akses untuk ke semua 
+sosial media gue kapanpun kalian mau karena gue ga cuma aktif sebagai 
+guru tapi gue bakal tarik ke berbagai aspek seperti Creative design, 
+Teknologi Komputer, Perkembangan Mobile Dan Sebagainya.
 
-You can use the [editor on GitHub](https://github.com/itsmebroarif/codewitharif/edit/codewitharif/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Materi
+Materi yang gue bawa juga ga semuanya berhubungan dengan Pemrogramman, namun gue tarik lagi kebeberapa aspek Yakni
 
 ```markdown
-Syntax highlighted code block
+Contoh Pelajaran
 
-# Header 1
-## Header 2
-### Header 3
+-Desain Aplikasi / Grafis
+-Cara Kerja komputer dan installasi sistem operasi
+-Menjadi Project Management Yang Profesional
+```
+```markdown
+Gak lupa juga untuk setiap sesi akan ada stack/apps tertentu seperti contohnya
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Pemrogramman Perangkat Lunak : Sublime/VScode/Atom
+Desain Aplikasi/Web : Figma
+Project Management : Notion/Trello
+Installasi Dan Konfigurasi : Virtualbox/VMware
+ 
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details [Code With Arif](https://linkr.bio/2zrp0).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/itsmebroarif/codewitharif/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
