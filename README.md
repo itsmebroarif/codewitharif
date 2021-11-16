@@ -27,5 +27,5 @@ Installasi Dan Konfigurasi : Virtualbox/VMware
  
 ```
 
-For more details [Code With Arif](https://linkr.bio/2zrp0).
+For more details [Code With Arif](https://linkr.bio/itsmebroarif).
 
