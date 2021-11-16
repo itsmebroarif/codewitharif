@@ -27,5 +27,5 @@ Installasi Dan Konfigurasi : Virtualbox/VMware
  
 ```
 
-For more details [CDA | LINKR](https://linkr.bio/itsmebroarif).
+For more details [CDA](https://linkr.bio/itsmebroarif).
 
